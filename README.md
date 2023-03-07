@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Geosphetic
+- 👋 Hi, Hello, Namaste, Hola
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 <!---
